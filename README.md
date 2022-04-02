@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MelodiBayraktar
+- 👀 I’m interested in learning software...
+- 🌱 I’m currently learning  python...
+- 📫 How to reach me - you can send me email on melodi_bayraktar@hotmail.com ...
+
+<!---
+MelodiBayraktar/MelodiBayraktar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

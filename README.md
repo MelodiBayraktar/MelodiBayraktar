@@ -3,7 +3,7 @@
   <div><br>
     <p>👋 Hi, I’m @MelodiBayraktar</p>
     <p>👀 I’m interested in learning software</p>
-    <p >🌱 I’m currently learning  python</p>
+    <p >🌱 I’m currently learning  React</p>
     <p >📫 How to reach me - you can send me email on melodi_bayraktar@hotmail.com </p>
 </div>
 </div>
